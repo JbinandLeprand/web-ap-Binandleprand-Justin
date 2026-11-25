@@ -113,4 +113,5 @@ input:valid {
 
 input:invalid {
     border-color: crimson;
+    background-color: mistyrose;
 }
